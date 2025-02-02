@@ -33,7 +33,7 @@ def print_report(file_contents):
     for i in word_count:    
         if i in alpha:
             print(f"'{i}': {word_count[i]}")
-    print("--- End of report ---")
+    print("--- End of report --- and Thanks a lot for reading the book")
 
 
 
